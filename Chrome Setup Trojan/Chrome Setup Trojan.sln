@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chrome Setup Trojan", "Chrome Setup Trojan\Chrome Setup Trojan.csproj", "{1A983D6B-34E9-4BE3-BB9F-2EF4F8FF99B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A983D6B-34E9-4BE3-BB9F-2EF4F8FF99B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A983D6B-34E9-4BE3-BB9F-2EF4F8FF99B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A983D6B-34E9-4BE3-BB9F-2EF4F8FF99B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A983D6B-34E9-4BE3-BB9F-2EF4F8FF99B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55849107-88C9-4E2D-9B6F-17A4623E52B7}
+	EndGlobalSection
+EndGlobal

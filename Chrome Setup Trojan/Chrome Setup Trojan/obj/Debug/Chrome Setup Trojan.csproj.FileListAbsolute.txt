@@ -1,0 +1,9 @@
+C:\Users\Owner\source\repos\Chrome Setup Trojan\Chrome Setup Trojan\bin\Debug\ChromeSetup.exe
+C:\Users\Owner\source\repos\Chrome Setup Trojan\Chrome Setup Trojan\bin\Debug\ChromeSetup.pdb
+C:\Users\Owner\source\repos\Chrome Setup Trojan\Chrome Setup Trojan\obj\Debug\Chrome Setup Trojan.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Chrome Setup Trojan\Chrome Setup Trojan\obj\Debug\Chrome_Setup_Trojan.Form1.resources
+C:\Users\Owner\source\repos\Chrome Setup Trojan\Chrome Setup Trojan\obj\Debug\SETUP.Properties.Resources.resources
+C:\Users\Owner\source\repos\Chrome Setup Trojan\Chrome Setup Trojan\obj\Debug\Chrome Setup Trojan.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Chrome Setup Trojan\Chrome Setup Trojan\obj\Debug\Chrome Setup Trojan.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Chrome Setup Trojan\Chrome Setup Trojan\obj\Debug\ChromeSetup.exe
+C:\Users\Owner\source\repos\Chrome Setup Trojan\Chrome Setup Trojan\obj\Debug\ChromeSetup.pdb
